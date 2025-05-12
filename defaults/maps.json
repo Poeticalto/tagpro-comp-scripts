@@ -1,0 +1,13 @@
+{
+  "Map Test": [
+    {"name":"Asida","mapID":75927,"prefix":"fm_id/","type": "ctf"},
+    {"name":"Audacity 2","mapID":74488,"prefix":"fm_id/","type": "ctf"},
+    {"name":"Moon Base","mapID":74431,"prefix":"fm_id/","type": "ctf"},
+    {"name":"OTI Jardim","mapID":77164,"prefix":"fm_id/","type": "ctf"},
+    {"name":"OTI MERALD","mapID":74491,"prefix":"fm_id/","type": "ctf"},
+    {"name":"Rush 2","mapID":64073,"prefix":"fm_id/","type": "ctf"},
+    {"name":"Sugar Hill","mapID":74444,"prefix":"fm_id/","type": "ctf"},
+    {"name":"Transilio 2022","mapID":74494,"prefix":"fm_id/","type": "ctf"},
+    {"name":"Willow","mapID":74490,"prefix":"fm_id/","type": "ctf"} 
+  ]
+}
